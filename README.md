@@ -1,7 +1,7 @@
 ❤️
 
 ***
-We have a living [Etherpad](https://public.etherpad-mozilla.org/p/2017-03-09-WOW-friendly-github-intro) for the workshop here - Github Workshop, March 10th, 2017.
+We have a living [Etherpad](https://public.etherpad-mozilla.org/p/2017-03-09-WOW-friendly-github-intro) for the workshop here - Github Workshop, Working Open Workshop Montreal - March 10th, 2017.
 ***
 
 # A Friendly Github Introduction
