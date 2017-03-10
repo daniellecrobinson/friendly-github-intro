@@ -1,12 +1,10 @@
 # Schedule
+Mozilla Science Lab Working Open Workshop 3/9/17 in Montreal.
 
 Here's the roadmap for the workshop:
 
-**9:30 - 10:00: Registration**
 
-* Coffee, tea, and cookies - Thanks UBC Library!!!!
-
-**10:00 - 10:15: Introductions**
+**13:00 - 13:15: Introductions**
 
 * About us
 * About Mozilla Science Lab
@@ -15,11 +13,11 @@ Here's the roadmap for the workshop:
 
 **10:15 - 10:35: Github - What, Why, & Welcome**
 
-* Presentation: [Github - What, Why, & Welcome](https://docs.google.com/presentation/d/1Tfa3zSGAxDPBkLwC5DByGIsyJJIIvTi-vaxuY6oQtFY/edit?usp=sharing)
+* Presentation: [Github - What, Why, & Welcome](https://docs.google.com/presentation/d/15QXLszyK981yZZ16-zKZMAKJxpQlj6VcM9qM_mwGC-0/edit#slide=id.g11cba49b32_0_302)
 
 **10:35 - 11:00: Getting Started With GitHub**
 
-* Demo: [GitHub - Our First GitHub Project: Let’s get set up!](https://docs.google.com/presentation/d/1TkOLnznhfo_2sB4YnStyK8_Lo9WTgDt6xoRcMkyuJdY/edit?usp=sharing)
+* Demo: [GitHub - Our First GitHub Project: Let’s get set up!](https://docs.google.com/presentation/d/1izUH1OKmQeEY969JtS3X_eJ9-3DYrpB7ogfxye4SXKc/edit#slide=id.g11cbf1d5c5_0_418)
 
 **11:00 - 12:00: Set Up Your First Project**
 
